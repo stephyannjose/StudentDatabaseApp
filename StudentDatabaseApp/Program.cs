@@ -43,8 +43,8 @@ namespace StudentDatabaseApp
                 // Create a new student
                 var student = new Student
                 {
-                    Name = "John Doe",
-                    DateOfBirth = new DateTime(2000, 1, 1)
+                    Name = "Stephy Jose",
+                    DateOfBirth = new DateTime(1988, 4, 12)
                 };
 
                 // Add the student to the database
